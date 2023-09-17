@@ -1,5 +1,7 @@
 ![GITHUB_HEADER](https://github.com/reg13-chu/reg13-chu/assets/75598819/f3ec2581-41d7-4884-99c2-419d6d761d9d)
 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=315o6zvjeq5t7stnkanus2b5qayi)](https://open.spotify.com/user/315o6zvjeq5t7stnkanus2b5qayi)
+
 
 <!--
 **reg13-chu/reg13-chu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
