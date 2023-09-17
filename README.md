@@ -36,6 +36,7 @@ I'm currently focused in Web Development and learning about frameworks. I'm inte
 <br>
 
 <h1>Github Stats ✨</h1>
+(For my motivation)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reg13-chu&theme=midnight-purple&show_icons=true&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=reg13-chu&theme=midnight-purple&hide_border=true"/>
