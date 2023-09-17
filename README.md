@@ -1,5 +1,4 @@
-![GITHUB_HEADER](https://github.com/reg13-chu/reg13-chu/assets/75598819/f3ec2581-41d7-4884-99c2-419d6d761d9d)
-
+![HEADER FINAL](https://github.com/reg13-chu/reg13-chu/assets/75598819/298ce10f-3778-4dcf-aae5-21c0a06ef7bf)
 
 
 <p align="center">
@@ -11,13 +10,23 @@ I'm currently focused in Web Development and learning about frameworks. I'm inte
 <p align="center">✦✦✦</p>
 <br>
 
-<h1> Skills 💜</h1>
+<h1> Skills and Tools 💜</h1>
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-purple?logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23948305?logo=javascript&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23557191?logo=c&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Brave-%23FB542B?logo=brave&logoColor=%23ffffff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-%23007ACC?logo=visualstudiocode">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=%23ffffff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/IntelliJ-gray?logo=intellijidea">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=%23ffffff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?logo=git&logoColor=%23ffffff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Canva-%2300C4CC?logo=canva&logoColor=%23ffffff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Replit-%23F26207?logo=replit&logoColor=%23ffffff">
+
+
 </p>
 
 <br>
@@ -40,8 +49,10 @@ I'm currently focused in Web Development and learning about frameworks. I'm inte
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reg13-chu&theme=midnight-purple&show_icons=true&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=reg13-chu&theme=midnight-purple&hide_border=true"/>
+  <br>
+  (For my motivation)
 </p>
-(For my motivation)
+
 
 
 
