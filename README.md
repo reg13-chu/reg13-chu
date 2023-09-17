@@ -1,4 +1,5 @@
-### Hi there 👋
+![GITHUB_HEADER](https://github.com/reg13-chu/reg13-chu/assets/75598819/f3ec2581-41d7-4884-99c2-419d6d761d9d)
+
 
 <!--
 **reg13-chu/reg13-chu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
