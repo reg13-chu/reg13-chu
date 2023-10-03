@@ -20,7 +20,7 @@ I'm currently focused in Web Development and learning about frameworks. I'm inte
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23948305?logo=javascript&logoColor=white">
 <!--  <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-%2306b6d4?logo=react&logoColor=white"> -->
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23557191?logo=c&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/React-%23059dc7?logo=react&logoColor=white">
+ <!-- <img alt="Static Badge" src="https://img.shields.io/badge/React-%23059dc7?logo=react&logoColor=white"> -->
 </p>
 <br>
 <h2>Tools that I used 🌙</h2>
