@@ -2,8 +2,8 @@
 
 
 <p align="center">
-I'm a second year college student taking a <strong>Bachelor of Science in Information Technology</strong> at <strong>Polytechnic University of the Philippines Manila</strong>.
-I'm currently focused in Web Development and learning about frameworks. I'm interested in technologies, where I want to learn Arduino in the future since it is one of my dream skills to have.
+I'm a third year college student taking a <strong>Bachelor of Science in Information Technology</strong> at <strong>Polytechnic University of the Philippines Manila</strong>.
+I'm currently focused in Web Development and learning about frameworks. I'm currently into Web Development and Data Science.
 </p>
 
 <br>
